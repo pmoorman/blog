@@ -8,10 +8,21 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+## We help companies that have traction, unlock their full potential and scale 
+We are a boutique growth agency, focused on taking hungry startup companies out of the *“we’re just getting started”* phase, and into the real world of serious business and mature brands.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+That means you already have a strong product, funding and a steady customer base. What you don’t have (yet), is a strong brand that people recognize, an increasing growth rate, and a business that performs.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+**We are here to change that.**
+
+## Our job is to make your marketing scale
+
+Maybe that means you’re going international. Maybe that means you’re tightening up your branding. Maybe that means you’re unlocking new acquisition channels, and building out additional online funnels.
+
+In either case, it’s about scale. To increase the reach of your products, your identity, and your vision. To change the world, and to change your industry.
+
+Because that’s what you came for.
+
+Want to work with us? [Send an email to Caspar](mailto:caspar@growthcasts.co), and we’ll figure out how to get started…
+

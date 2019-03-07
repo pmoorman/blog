@@ -8,25 +8,25 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
-  facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
-john:
-  username: john
-  name: John O'Nolan
-  location: On a plane
+pieter:
+  username: pieter
+  name: Pieter Moorman
+  location: Ubud, Bali
+  url_full: http://growthcasts.co/story
+  url: growthcasts.co
+  bio: Pieter is the founder and senior partner at Growthcasts. He spends his days looking after the Elite community, writing content & ensuring Growthcasts is a happy place.
+  picture: assets/images/pieter.png
+  facebook: pieter.moorman
+  twitter: False
+  cover: False # set cover image with e.g. assets/images/hannah-cover.jpg
+caspar:
+  username: caspar
+  name: Caspar Lusink
+  location: Amsterdam, The Netherlands
   url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
+  url: linkedin.com
+  bio: Senior partner at Growthcasts. Writes about growth marketing (duh!), startup life, business strategy, and branding. Travels the world for fun and profit.
+  picture: assets/images/caspar_smaller.jpg
   facebook: False
   twitter: False
   cover: False
