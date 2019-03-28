@@ -8,10 +8,9 @@ date: 2019-02-17 11:07:01
 tags: Copywriting
 class: post-template
 subclass: 'post'
-author: Pieter
+author: pieter
 ---
 
-# Phase II: the mini-brand
 Seems like many startups—especially bootstrapped ones—hit a plateau of sorts after a year or two in business.
 
 When you’re just getting started, the whole idea experience is exhilarating, much like a new love: it’s exciting, it’s new, and it’s challenging. In your marketing, you lean into the fact that you’re young and under-experienced. And thank God society views startups as something cool and exciting.
@@ -24,7 +23,7 @@ You can’t be young and exciting forever.
 So at some point, a plateau hits your growth: 
 
     
-> **You’re not really a young startup anymore, but you’re not really a “real” business yet, either…**
+<blockquote><i><b>You’re not really a young startup anymore, but you’re not really a “real” business yet, either...</b></i></blockquote>
 
 
 ## Call it the adolescence of business
@@ -55,7 +54,7 @@ It’s only the beginning.
 ## What’s the pathway to breach through this plateau?
 
 
-> **To invest in branding, and build a mini-brand**
+<blockquote><i><b>To invest in branding, and build a mini-brand</b></i></blockquote>
 
 Right now you know—much better than you ever did before—who your audience is, what they want, and what makes them tick. You know the strengths of your product, but also it’s weaknesses.
 
@@ -89,7 +88,7 @@ But what got you here, won’t get you there.
 A big part of why you’re in a rut right now… is because what used to work at a smaller scale doesn’t really work anymore now (otherwise you wouldn’t have stagnated).
 
 
-> **What would your business look like it it would be 10X bigger, doing 10X more revenue than it does right now?**
+<blockquote><i><b>What would your business look like it it would be 10X bigger, doing 10X more revenue than it does right now?</b></i></blockquote>
 
 
 - What kind of acquisition channels do you need to get to that scale?
@@ -111,7 +110,7 @@ If you don’t aim for 10X growth, you’ll never get there, either.
 Branding isn’t just your logo. Branding is how people view your business, and how they would describe it to a friend. 
 
 
-> **Good branding means that you’re carved out a clear, distinct position in the market for yourself… that’s both unique, and valuable.** 
+<blockquote><i><b>Good branding means that you’re carved out a clear, distinct position in the market for yourself… that’s both unique, and valuable.</b></i></blockquote>
 
 That doesn’t mean that *nobody else can be doing what you’re doing…* but it’s got to be unique enough that it feels to them that whatever it is they want, they can only quite get from you.
 

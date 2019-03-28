@@ -8,10 +8,10 @@ date: 2017-07-27 10:00:00
 tags: [Getting started]
 class: post-template
 subclass: 'post tag-getting-started'
-author: ghost
+author: pieter
 ---
 
-HBranding isn’t the first thing you think about when you talk about growth marketing. Growth has a reputation of being data nerds, that stay away from “fluffy” things like branding.
+Branding isn’t the first thing you think about when you talk about growth marketing. Growth has a reputation of being data nerds, that stay away from “fluffy” things like branding.
 
 Yet, branding is an incredibly powerful vector in your overall growth mix.
 
@@ -28,7 +28,7 @@ That confusion of terms is widespread, and regretful… because we’ve just red
 
 So what’s branding then?
 
-> Branding is about owning a concept or a “name space” in a prospect’s mind
+> ### *Branding is about owning a concept or a “name space” in a prospect’s mind*
 
 The most powerful concept in marketing is owning a word in the prospect’s mind. It connects your product to an identity. For instance…
 

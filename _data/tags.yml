@@ -1,6 +1,6 @@
-speeches:
+data-and-analytics:
   name: Data and Analytics
-  description: Some of the numbers words ever spoken.
+  description: The numbers of growth.
   cover: assets/images/speeches.jpg
 fiction:
   name: fiction

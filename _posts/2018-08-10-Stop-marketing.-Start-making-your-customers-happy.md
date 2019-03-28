@@ -8,12 +8,12 @@ date: 2018-08-10 09:15:41
 tags: Onboarding and Retention
 class: post-template
 subclass: 'post'
-author: Caspar
+author: caspar
 ---
 
 Many marketers focus primarily on the acquisition of customers and they often don’t worry about the 'quality' of a customer. As I will explain in a bit, the quality of a customer is way more important than many people think. To generate sustainable growth, you should consider the entire lifetime of a customer.  
 
-***”For most marketers the job is done when a customer is in, for Growth marketers this is just the beginning”***
+<blockquote><i><b>”For most marketers the job is done when a customer is in, for Growth marketers this is just the beginning”</b></i></blockquote>
 
 The key here is, getting a customer is one part of the job, making them happy is even more important.
 
@@ -67,7 +67,7 @@ Remember the three reasons that happy customers are great? Retention is the main
 
 Like the Growth Master Brian Balfour has said himself:
 
-***'Retention is the 'King of Growth.’***
+<blockquote><i><b>'Retention is the 'King of Growth.’</b></i></blockquote>
 
 
 ### How to increase retention?
