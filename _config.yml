@@ -11,7 +11,7 @@ baseurl: /
 title: Double Blog
 description: Growth marketing for startups
 cover: assets/images/blog-cover-2.jpg
-logo: double_logo_blog.png
+logo: assets/images/double_logo_blog.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/double_favicon.png
 production_url: https://blog-growthcasts.netlify.com/
