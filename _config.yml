@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Growthcasts
+title: Double Blog
 description: Growth marketing for startups
 cover: assets/images/blog-cover-2.jpg
-logo: assets/images/blog-icon.png
+logo: double_logo_blog.png
 logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+favicon: assets/images/double_favicon.png
 production_url: https://blog-growthcasts.netlify.com/
 source_url: https://github.com/pmoorman/blog
 CNAME: #add cname for website to be created
